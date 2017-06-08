@@ -15,7 +15,7 @@ In the src folder, there are five .py files:
 ## Installation 
 
 ### Data
-For the real-world dataset, Spam dataset is used in the demo. It is from the book *The Elements of Statistical Learning*. You can access the dataset from [the website of the book](https://statweb.stanford.edu/~tibs/ElemStatLearn/datasets/spam.data)
+For the real-world dataset, Spam dataset is used in the demo. It is from the book *The Elements of Statistical Learning*. You can access the dataset from [the website of the book](https://statweb.stanford.edu/~tibs/ElemStatLearn/datasets).
 
 
 ### Required softwares and packages
