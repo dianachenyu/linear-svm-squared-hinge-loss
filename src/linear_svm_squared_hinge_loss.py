@@ -138,7 +138,7 @@ def fast_grad(beta_init, theta_init, lambduh, eta_init, maxiter, x, y):
 
 
 def mylinearsvm(lambduh, eta_init, maxiter, x, y):
-""" Linear Support Vector Machine
+    """ Linear Support Vector Machine
 
     Parameters
     ----------
