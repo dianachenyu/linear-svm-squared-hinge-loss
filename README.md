@@ -9,7 +9,7 @@ In the src folder, there are five .py files:
  - demo_simulated_data.py is a demo file, which launchs the method on a simple simulated dataset.
  - demo_real_world_data.py is a demo file, which launchs the method on a real-world dataset.
  - compare_to_sklearn.py compares the results from this implementation and scikit-learn.
- - demo_compare.py is demo of the comparison.
+ - demo_compare.py is demo of the comparison on a simulated and a real-world dataset.
 
 
 ## Installation 
@@ -20,7 +20,7 @@ For the real-world dataset, Spam dataset is used in the demo. It is from the boo
 
 ### Required softwares and packages
 
-The code is written Python 3. Beside python, you also need pip3 or conda to intall the following python packages:
+The code is written in Python 3. Besides python, you also need pip3 or conda to intall the following python packages:
 
 - numpy
 - pandas
