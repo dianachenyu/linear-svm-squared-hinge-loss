@@ -9,7 +9,7 @@ In the src folder, there are five .py files:
  - demo_simulated_data.py is a demo file, which launchs the method on a simple simulated dataset.
  - demo_real_world_data.py is a demo file, which launchs the method on a real-world dataset.
  - compare_to_sklearn.py compares the results from this implementation and scikit-learn.
- - test_compare.py is demo of the comparison.
+ - demo_compare.py is demo of the comparison.
 
 
 ## Installation 
